@@ -1,0 +1,23 @@
+.footer {
+  padding-top: 64px;
+  &__wrapper {
+    background-color: var(--tundora-color);
+    padding: 0 160px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 128px;
+  }
+  ul {
+    list-style: none;
+    display: flex;
+    li {
+      padding-right: 45px;
+      color: var(--light-color);
+      font-size: 11px;
+      line-height: 16px;
+      font-weight: 300;
+      cursor: pointer;
+    }
+  }
+}

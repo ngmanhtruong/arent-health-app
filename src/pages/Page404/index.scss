@@ -1,0 +1,28 @@
+.page-404{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  h6 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .page-404__description{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .page-404__button{
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--clementine-color);
+    border-radius: 0.5rem;
+    background-color: var(--clementine-color);
+    cursor: pointer;
+    &:hover{
+      background-color: var(--lightning-yellow-color);
+      color: var(--mine-shaft-color);
+    }
+  }
+}

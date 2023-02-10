@@ -1,0 +1,1 @@
+export const ARENT_THEME_LOCAL_STORAGE = 'arent-theme-local-storage'

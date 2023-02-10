@@ -1,0 +1,20 @@
+{
+  "light": {
+    "id": "light",
+    "name": "Light",
+    "colors": {
+      "light": "#ffffff",
+      "mineShaft": "#2E2E2E",
+      "tundora": "#414141",
+      "boulder": "#777777",
+      "lightningYellow": "#FFCC21",
+      "neonCarrot": "#FF963C",
+      "clementine": "#EA6C00",
+      "riptide": "#8FE9D0"
+    },
+    "font": [
+      "Inter",
+      "Noto Sans Japanese"
+    ]
+  }
+}
